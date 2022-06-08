@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Veli
-- 👀 I’m interested in ...mobaile dev
+- 👀 I’m interested in ...mobile dev
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...TG:Villi1
