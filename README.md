@@ -1,6 +1,6 @@
 <div id="header" aling="center">
 <div id="badges">
-<a href="https://linkedin.com/in/veli-ismailov-294312234">
+<a href="linkedin.com/in/veli-ismailov-294312234">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width=100"/> </div>
  <img src="https://img.shields.io/badge/LinkedIn-blu?logo=linkedin&logoColor=white&style=for-the-badge"  alt="LinkedIn Badge"/> 
 <a/>                                                                                                                             
