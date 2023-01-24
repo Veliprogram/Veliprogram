@@ -6,7 +6,9 @@
   
   
 <div id="badges">
-<a href="linkedin.com/in/veli-ismailov-294312234">
+<a href="https://www.linkedin.com/in/veli-ismailov-294312234/">
+
+
   
  <img src="https://img.shields.io/badge/LinkedIn-blu?logo=linkedin&logoColor=white&style=for-the-badge"  alt="LinkedIn Badge"/> 
 <a/>                                                                                                                             
