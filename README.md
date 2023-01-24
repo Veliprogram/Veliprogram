@@ -1,7 +1,13 @@
 <div id="header" aling="center">
+  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+  
+  
+  
 <div id="badges">
 <a href="linkedin.com/in/veli-ismailov-294312234">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width=100"/> </div>
+  
  <img src="https://img.shields.io/badge/LinkedIn-blu?logo=linkedin&logoColor=white&style=for-the-badge"  alt="LinkedIn Badge"/> 
 <a/>                                                                                                                             
 <a href="https://twitter.com/VilliIsmailov">   
