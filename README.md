@@ -17,7 +17,7 @@
 <a/>    
 <a href="https://twitter.com/VilliIsmailov">                                                                                                               <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter Badge"/>
   <a/>
-  <a href="https://telegram.org/k/#@Villi1">
+  <a href="https://t.me/@Villi1">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>  
 <a/>                                                                                                                               
     </div>
