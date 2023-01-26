@@ -20,9 +20,9 @@
   <a/>
   
   
-  <a hef="https://web.telegram.org/k/#@Villi1">
+  <a hef="https://telegram.org/k/#@Villi1">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>  
-    <a/>                                                                                                                               
+<a/>                                                                                                                               
     </div>
 
                                                                                                                                
