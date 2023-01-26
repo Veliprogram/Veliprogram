@@ -16,8 +16,7 @@
                                                                                                                                       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter Badge"/>
   <a/>
   <hef="https://t.me/Villi1">
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Villi1) 
- <a/>                                                                                                                                 </div>
+ <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>  <a/>                                                                                                                                 </div>
 
                                                                                                                                
 <img src="https://komarev.com/ghpvc/?username=Veliprogram&style=flat-square&color=blue" alt=""/>
