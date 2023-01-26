@@ -14,13 +14,10 @@
 <div id="badges">
 <a href="https://www.linkedin.com/in/veli-ismailov-294312234/">
  <img src="https://img.shields.io/badge/LinkedIn-blu?logo=linkedin&logoColor=white&style=for-the-badge"  alt="LinkedIn Badge"/> 
-<a/>   
-  
+<a/>    
 <a href="https://twitter.com/VilliIsmailov">                                                                                                               <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter Badge"/>
   <a/>
-  
-  
-  <a hef="https://telegram.org/k/#@Villi1">
+  <a href="https://telegram.org/k/#@Villi1">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>  
 <a/>                                                                                                                               
     </div>
